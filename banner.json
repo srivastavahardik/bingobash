@@ -1,6 +1,17 @@
 {
   "podcasts": [
     {
+      "artistName": "Saif & Faiza",
+      "artworkUrl600": "https://images.theabcdn.com/i/28045446.jpg",
+      "collectionName": "The Musafir Stories - India Travel Podcast",
+      "feedUrl": "https://audioboom.com/channels/4905542.rss",
+      "primaryGenreName": "Places & Travel",
+      "releaseDate": "2021-05-24T16:38:00Z",
+      "trackCount": 105,
+      "trackId": 1209849464,
+      "banner": "https://github.com/srivastavahardik/bingobash/raw/main/banner1.png"
+    },
+    {
       "artistName": "BeerBiceps aka Ranveer Allahbadia",
       "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts114/v4/de/1d/86/de1d867a-023a-718d-2ddd-37eab2f4c41e/mza_13752191344480840564.jpg/600x600bb.jpg",
       "collectionName": "The Ranveer Show",
@@ -21,6 +32,28 @@
       "trackCount": 43,
       "trackId": 1148175292,
       "banner": "https://github.com/srivastavahardik/bingobash/raw/main/banner3.png"
+    },
+    {
+      "artistName": "Parcast Network",
+      "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts125/v4/dd/cc/28/ddcc281c-2795-adbd-96a4-1c888267a0f3/mza_3932598869482822200.jpg/600x600bb.jpg",
+      "collectionName": "Unsolved Murders: True Crime Stories",
+      "feedUrl": "https://feeds.megaphone.fm/END8394789342",
+      "primaryGenreName": "True Crime",
+      "releaseDate": "2021-04-27T07:01:00Z",
+      "trackCount": 265,
+      "trackId": 1122804248,
+      "banner": "https://github.com/srivastavahardik/bingobash/raw/main/banner4.jpg"
+    },    
+    {
+      "artistName": "The Know Fear Cast",
+      "artworkUrl600": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts115/v4/99/0d/f3/990df3dc-ff05-be8f-8534-700767b9e3a6/mza_16385388885518128238.jpg/600x600bb.jpg",
+      "collectionName": "The Know Fear Cast",
+      "feedUrl": "https://knowfearcast.libsyn.com/rss",
+      "primaryGenreName": "Society & Culture",
+      "releaseDate": "2021-05-25T04:00:00Z",
+      "trackCount": 100,
+      "trackId": 1147898122,
+      "banner": "https://github.com/srivastavahardik/bingobash/raw/main/banner5.png"
     }
   ]
 }
