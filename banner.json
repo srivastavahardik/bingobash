@@ -1,0 +1,26 @@
+{
+  "podcasts": [
+    {
+      "artistName": "BeerBiceps aka Ranveer Allahbadia",
+      "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts114/v4/de/1d/86/de1d867a-023a-718d-2ddd-37eab2f4c41e/mza_13752191344480840564.jpg/600x600bb.jpg",
+      "collectionName": "The Ranveer Show",
+      "feedUrl": "https://feeds.simplecast.com/7PWFZi_d",
+      "primaryGenreName": "Self Help",
+      "releaseDate": "2021-04-20T16:02:00Z",
+      "trackCount": 113,
+      "trackId": 1490896085,
+      "banner": "https://github.com/srivastavahardik/bingobash/raw/main/banner2.png"
+    },
+    {
+      "artistName": "APM Reports",
+      "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts125/v4/18/58/b8/1858b8df-71d6-01f1-0867-7f91835a5870/mza_5185756345850627274.jpg/600x600bb.jpg",
+      "collectionName": "In the Dark",
+      "feedUrl": "https://feeds.publicradio.org/public_feeds/in-the-dark/itunes/rss",
+      "primaryGenreName": "News",
+      "releaseDate": "2020-10-14T05:05:00Z",
+      "trackCount": 43,
+      "trackId": 1148175292,
+      "banner": "https://github.com/srivastavahardik/bingobash/raw/main/banner3.png"
+    }
+  ]
+}
