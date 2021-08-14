@@ -1,0 +1,104 @@
+{
+    "podcasts": [
+      {
+        "artistName": "Alux.com",
+        "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/d2/19/bf/d219bfc0-d1c6-147d-17b0-cd782c100a88/mza_843155280828064300.jpg/1200x1200bb.jpg",
+        "collectionName": "The ALUX.COM Podcast",
+        "feedUrl": "https://feeds.simplecast.com/oQuZQcQz",
+        "primaryGenreName": "Business",
+        "releaseDate": "2021-05-23T09:08:00Z",
+        "trackCount": 100,
+        "trackId": 1451641208,
+        "banner": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/d2/19/bf/d219bfc0-d1c6-147d-17b0-cd782c100a88/mza_843155280828064300.jpg/1200x1200bb.jpg"
+      },
+      {
+        "artistName": "Wondery",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/ca/b4/1e/cab41e8e-c8b5-a576-d441-be9e30d26e14/mza_1441430528524467268.jpeg/600x600bb.jpg",
+        "collectionName": "Sports Wars",
+        "feedUrl": "https://rss.art19.com/sports-wars",
+        "primaryGenreName": "Sports",
+        "releaseDate": "2021-05-18T07:30:00Z",
+        "trackCount": 77,
+        "trackId": 1458930048,
+        "banner": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/ca/b4/1e/cab41e8e-c8b5-a576-d441-be9e30d26e14/mza_1441430528524467268.jpeg/600x600bb.jpg"
+      },
+      {
+        "artistName": "This American Life",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/4e/b9/bb/4eb9bb9b-ed19-f0b7-7739-1177f1b35207/mza_8452563123961176873.png/600x600bb.jpg",
+        "collectionName": "This American Life",
+        "feedUrl": "http://feed.thisamericanlife.org/talpodcast",
+        "primaryGenreName": "Sports",
+        "releaseDate": "2021-05-09T22:00:00Z",
+        "trackCount": 191,
+        "trackId": 201671138,
+        "banner": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/4e/b9/bb/4eb9bb9b-ed19-f0b7-7739-1177f1b35207/mza_8452563123961176873.png/600x600bb.jpg"
+      },
+      {
+        "artistName": "Wondery",
+        "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts114/v4/99/03/81/990381d6-b751-422a-4bdc-9a06a6ff90a4/mza_2513899056555594090.jpeg/600x600bb.jpg",
+        "collectionName": "Business Wars",
+        "feedUrl": "https://rss.art19.com/business-wars",
+        "primaryGenreName": "Management",
+        "releaseDate": "2021-05-24T09:00:00Z",
+        "trackCount": 320,
+        "trackId": 1335814741,
+        "banner": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts114/v4/99/03/81/990381d6-b751-422a-4bdc-9a06a6ff90a4/mza_2513899056555594090.jpeg/600x600bb.jpg"
+      },
+      {
+        "artistName": "Maed in India",
+        "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts124/v4/ef/c5/db/efc5dbc3-35f3-8e3b-792d-dd1c0695376d/mza_3372871298993216101.png/600x600bb.jpg",
+        "collectionName": "Is Romance Dead?",
+        "feedUrl": "https://isromancedead.libsyn.com/rss",
+        "primaryGenreName": "Relationships",
+        "releaseDate": "2020-12-04T00:00:00Z",
+        "trackCount": 9,
+        "trackId": 1534542817,
+        "banner": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts124/v4/ef/c5/db/efc5dbc3-35f3-8e3b-792d-dd1c0695376d/mza_3372871298993216101.png/600x600bb.jpg"
+      },
+      {
+        "artistName": "Wondery",
+        "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts115/v4/3e/cd/ff/3ecdff14-725f-2bc8-b668-b0bf5573f114/mza_15069433805807513940.jpeg/600x600bb.jpg",
+        "collectionName": "Spy Affair",
+        "feedUrl": "https://rss.art19.com/spy-affair",
+        "primaryGenreName": "True Crime",
+        "releaseDate": "2021-05-18T07:30:00Z",
+        "trackCount": 10,
+        "trackId": 1557382427,
+        "banner": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts115/v4/3e/cd/ff/3ecdff14-725f-2bc8-b668-b0bf5573f114/mza_15069433805807513940.jpeg/600x600bb.jpg"
+      },
+        {
+        "artistName": "Parcast Network",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/53/26/a5/5326a5d5-48d2-0aff-8dc9-037ea63d2dfd/mza_8384212135430528332.jpg/600x600bb.jpg",
+        "collectionName": "Supernatural with Ashley Flowers",
+        "feedUrl": "https://feeds.megaphone.fm/supernatural",
+        "primaryGenreName": "Society & Culture",
+        "releaseDate": "2021-04-28T07:01:00Z",
+        "trackCount": 66,
+        "trackId": 1500667648,
+        "banner": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/53/26/a5/5326a5d5-48d2-0aff-8dc9-037ea63d2dfd/mza_8384212135430528332.jpg/600x600bb.jpg"
+      },
+      {
+        "artistName": "Wondery",
+        "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts114/v4/7a/5e/0e/7a5e0ee7-2188-e582-1178-0339a71c48b7/mza_9126196642607365076.jpeg/600x600bb.jpg",
+        "collectionName": "American Innovations",
+        "feedUrl": "https://rss.art19.com/american-innovations-podcast",
+        "primaryGenreName": "Science",
+        "releaseDate": "2021-05-20T07:00:00Z",
+        "trackCount": 137,
+        "trackId": 1370092284,
+        "banner": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts114/v4/7a/5e/0e/7a5e0ee7-2188-e582-1178-0339a71c48b7/mza_9126196642607365076.jpeg/600x600bb.jpg"
+      },
+      {
+        "artistName": "Michael Hobbes & Sarah Marshall",
+        "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts125/v4/53/e1/1e/53e11e12-2ca3-cbab-99fd-2612f0b3ea57/mza_4639382026422879476.jpg/600x600bb.jpg",
+        "collectionName": "You're Wrong About",
+        "feedUrl": "https://feeds.buzzsprout.com/1112270.rss",
+        "primaryGenreName": "History",
+        "releaseDate": "2021-04-19T09:00:00Z",
+        "trackCount": 134,
+        "trackId": 1380008439,
+        "banner": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts125/v4/53/e1/1e/53e11e12-2ca3-cbab-99fd-2612f0b3ea57/mza_4639382026422879476.jpg/600x600bb.jpg"
+      }      
+    ]
+  }
+  
